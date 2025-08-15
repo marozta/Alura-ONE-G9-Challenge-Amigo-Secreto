@@ -1,6 +1,6 @@
 # 🎁 Challenge: Juego del Amigo Secreto
 
-  ![logo-amigo-secreto](https://github.com/user-attachments/assets/73a5d349-3bef-45ee-8176-2b5cd818d935)
+  ![logo-amigo-secreto](assets/amigo-secreto.png)
 
 **Amigo Secreto** es una aplicación web interactiva que te ayuda a organizar de forma fácil el clásico juego de intercambio de regalos. Solo tienes que agregar los nombres de los participantes y la app se encarga de hacer el sorteo para que cada quien tenga su amigo secreto. ¡Así de simple!
 
@@ -19,15 +19,15 @@
 
 1. **Pantalla Principal**: Interfaz inicial de la aplicación donde se pueden agregar los nombres de los participantes.
 
-   ![image](https://github.com/user-attachments/assets/c3cc9014-ace4-4570-a50d-bdc8537390c7)
+   ![image](assets/pantalla01.png)
 
 3. **Lista de Participantes**: Visualización de los nombres añadidos a la lista.
    
-   ![image](https://github.com/user-attachments/assets/55003850-f48b-43ea-b9b9-212ac1c426c1)
+   ![image](assets/pantalla02.png)
 
 4. **Resultado del Sorteo**: Muestra el nombre del amigo secreto seleccionado aleatoriamente.
    
-   ![image](https://github.com/user-attachments/assets/eb626501-db93-4037-8375-174a4d4e71d4)
+   ![image](assets/pantalla03.png)
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -43,18 +43,12 @@ Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 1. **Clona este repositorio**:
 
    ```bash
-   gh repo clone JKD711/Challenge-amigo-secreto
+   git clone https://github.com/marozta/Alura-ONE-G9-Challenge-Amigo-Secreto.git
    ```
 
-2. **Navega al directorio del proyecto**:
+2. **Abre el archivo `index.html` en tu navegador preferido**.
 
-   ```bash
-   cd amigo_secreto
-   ```
-
-3. **Abre el archivo `index.html` en tu navegador preferido**.
-
-   No se requieren instalaciones adicionales, ya que es una aplicación web estática.
+   Es una aplicación web estática, puede usarse sin necesidad de instalaciones adicionales.
 
 ## 💻 Uso
 

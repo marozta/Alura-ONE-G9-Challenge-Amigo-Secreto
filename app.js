@@ -53,6 +53,9 @@ function sortearAmigo() {
     const amigoSecreto = listaAmigos[numeroAleatorio];
     // mostrar el nombre del amigo sorteado 
     sorteoAmigo.innerHTML = `<li>El amigo secreto es: ${amigoSecreto}</li>`;
+    //Limpiar lista de amigos
+    let limpiarLista = document.getElementById('listaAmigos');
+    limpiarLista.innerHTML = "";
 }
 
 
