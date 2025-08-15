@@ -17,15 +17,15 @@
 
 ## 🖼️ Capturas de Pantalla
 
-1. **Pantalla Principal**: Interfaz inicial de la aplicación donde se pueden agregar los nombres de los participantes.
+1. **Pantalla Principal**: Inicio de la aplicación donde se pueden agregar los nombres de los participantes en el campo correspondiente.
 
    ![image](assets/pantalla01.png)
 
-3. **Lista de Participantes**: Visualización de los nombres añadidos a la lista.
+3. **Lista de Participantes**: Los nombres añadidos a la lista se van mostrando en la pantalla.
    
    ![image](assets/pantalla02.png)
 
-4. **Resultado del Sorteo**: Muestra el nombre del amigo secreto seleccionado aleatoriamente.
+4. **Resultado del Sorteo**: El nombre del amigo secreto seleccionado aleatoriamente se muestra en pantalla.
    
    ![image](assets/pantalla03.png)
 
@@ -46,7 +46,7 @@ Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
    git clone https://github.com/marozta/Alura-ONE-G9-Challenge-Amigo-Secreto.git
    ```
 
-2. **Abre el archivo `index.html` en tu navegador preferido**.
+2. **Abre el archivo `index.html` en tu navegador**.
 
    Es una aplicación web estática, puede usarse sin necesidad de instalaciones adicionales.
 
@@ -55,9 +55,9 @@ Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 1. **Ingresa el nombre** de un participante en el campo de texto.
 2. **Haz clic en "Adicionar"** para agregar el nombre a la lista.
 3. Repite los pasos anteriores hasta que todos los participantes estén en la lista.
-4. **Haz clic en "Sortear Amigo"** para realizar el sorteo y revelar el nombre del amigo secreto.
+4. **Haz clic en "Sortear Amigo"** para sortear el nombre del amigo secreto.
 
 
 ---
 
-¡Gracias por utilizar **Amigo Secreto**! Esperamos que disfrutes organizando tus sorteos de manera fácil y divertida. 🎉
+¡Gracias por descargar **Amigo Secreto**! Esperamos que te ayude a organizar mejor tus sorteos. 🎉
